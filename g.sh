@@ -1,6 +1,6 @@
 #!/bin/sh
 user="Suchet-Agg"
-repo='abcd'
+repo='Suchet-Agg.github.io'
 
 git init
 git add .
